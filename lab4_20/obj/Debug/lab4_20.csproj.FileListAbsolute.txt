@@ -1,0 +1,16 @@
+B:\Projects\university\Wpf\Жилинский\lab4_20\lab4_20\bin\Debug\lab4_20.exe.config
+B:\Projects\university\Wpf\Жилинский\lab4_20\lab4_20\bin\Debug\lab4_20.exe
+B:\Projects\university\Wpf\Жилинский\lab4_20\lab4_20\bin\Debug\lab4_20.pdb
+B:\Projects\university\Wpf\Жилинский\lab4_20\lab4_20\obj\Debug\lab4_20.csproj.AssemblyReference.cache
+B:\Projects\university\Wpf\Жилинский\lab4_20\lab4_20\obj\Debug\lab4_20.csproj.SuggestedBindingRedirects.cache
+B:\Projects\university\Wpf\Жилинский\lab4_20\lab4_20\obj\Debug\MainWindow.g.cs
+B:\Projects\university\Wpf\Жилинский\lab4_20\lab4_20\obj\Debug\App.g.cs
+B:\Projects\university\Wpf\Жилинский\lab4_20\lab4_20\obj\Debug\lab4_20_MarkupCompile.cache
+B:\Projects\university\Wpf\Жилинский\lab4_20\lab4_20\obj\Debug\lab4_20_MarkupCompile.lref
+B:\Projects\university\Wpf\Жилинский\lab4_20\lab4_20\obj\Debug\MainWindow.baml
+B:\Projects\university\Wpf\Жилинский\lab4_20\lab4_20\obj\Debug\lab4_20.g.resources
+B:\Projects\university\Wpf\Жилинский\lab4_20\lab4_20\obj\Debug\lab4_20.Properties.Resources.resources
+B:\Projects\university\Wpf\Жилинский\lab4_20\lab4_20\obj\Debug\lab4_20.csproj.GenerateResource.cache
+B:\Projects\university\Wpf\Жилинский\lab4_20\lab4_20\obj\Debug\lab4_20.csproj.CoreCompileInputs.cache
+B:\Projects\university\Wpf\Жилинский\lab4_20\lab4_20\obj\Debug\lab4_20.exe
+B:\Projects\university\Wpf\Жилинский\lab4_20\lab4_20\obj\Debug\lab4_20.pdb
